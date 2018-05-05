@@ -1,0 +1,6 @@
+E:\Live Projects\MvvmCrossStructure\MvvmCrossStructure\MvvmCrossStructure.Core\bin\Debug\netstandard2.0\MvvmCrossStructure.Core.deps.json
+E:\Live Projects\MvvmCrossStructure\MvvmCrossStructure\MvvmCrossStructure.Core\bin\Debug\netstandard2.0\MvvmCrossStructure.Core.dll
+E:\Live Projects\MvvmCrossStructure\MvvmCrossStructure\MvvmCrossStructure.Core\obj\Debug\netstandard2.0\MvvmCrossStructure.Core.csprojResolveAssemblyReference.cache
+E:\Live Projects\MvvmCrossStructure\MvvmCrossStructure\MvvmCrossStructure.Core\obj\Debug\netstandard2.0\MvvmCrossStructure.Core.csproj.CoreCompileInputs.cache
+E:\Live Projects\MvvmCrossStructure\MvvmCrossStructure\MvvmCrossStructure.Core\obj\Debug\netstandard2.0\MvvmCrossStructure.Core.AssemblyInfoInputs.cache
+E:\Live Projects\MvvmCrossStructure\MvvmCrossStructure\MvvmCrossStructure.Core\obj\Debug\netstandard2.0\MvvmCrossStructure.Core.AssemblyInfo.cs
